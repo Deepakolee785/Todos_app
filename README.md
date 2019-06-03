@@ -1,4 +1,4 @@
-## Link: [https://react-todos-app-by-deepak.netlify.com/]
+## live Preview: https://react-todos-app-by-deepak.netlify.com/
 
 <br/>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
